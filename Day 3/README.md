@@ -35,15 +35,16 @@ Comparison operators are used to compare values and return a Boolean result (Tru
 * Less than or equal to (<=): Checks if one value is less than or equal to another.
 Example:
 
-    x = 10
-    y = 5
-    is_equal = x == y
-    is_not_equal = x != y
-    is_greater_than = x > y
-    is_less_than = x < y
-    is_greater_than_or_equal = x >= y
-    is_less_than_or_equal = x <= y
-
+```
+x = 10
+y = 5
+is_equal = x == y
+is_not_equal = x != y
+is_greater_than = x > y
+is_less_than = x < y
+is_greater_than_or_equal = x >= y
+is_less_than_or_equal = x <= y
+```
 3. Logical operators
 
 Logical operators are used to combine multiple conditions and evaluate their truthiness. Here are the three logical operators in Python:
@@ -53,27 +54,32 @@ Logical operators are used to combine multiple conditions and evaluate their tru
 * NOT: Negates the truth value of a condition.
 Example:
 
-    x = 10
-    y = 5
-    z = 8
-    logical_and = x > y and y < z
-    logical_or = x > y or y > z
-    logical_not = not(x > y)
+```
+x = 10
+y = 5
+z = 8
+logical_and = x > y and y < z
+logical_or = x > y or y > z
+logical_not = not(x > y)
+```
 
 4. Assignment operators
 
 Assignment operators are used to assign values to variables. They combine the assignment (=) operator with other operators. Here's an example:
 
-    x = 10
-    x += 5  # Equivalent to x = x + 5
-
+```
+x = 10
+x += 5  # Equivalent to x = x + 5
+```
 In this example, the value of x is increased by 5 and assigned back to x using the += assignment operator.
 
 5. Expressions and precedence
 
 Expressions are combinations of operators and operands that produce a value. Python follows a specific order of precedence for evaluating expressions. Parentheses can be used to override the default precedence. Example:
 
-    result = (x + y) * z
+```
+result = (x + y) * z
+```
 
 In this example, the expression inside the parentheses is evaluated first before multiplying it by z.
 
