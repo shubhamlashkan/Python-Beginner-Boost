@@ -13,15 +13,17 @@ Arithmetic operators are used to perform basic mathematical calculations. Here a
 * Modulo (%): Returns the remainder of the division.
 * Exponentiation (**): Raises a value to the power of another. Example:
 
-    x = 10
-    y = 5
-    sum_result = x + y
-    difference_result = x - y
-    product_result = x * y
-    division_result = x / y
-    modulo_result = x % y
-    exponentiation_result = x ** y
-    
+``` 
+x = 10
+y = 5
+sum_result = x + y
+difference_result = x - y
+product_result = x * y
+division_result = x / y
+modulo_result = x % y
+exponentiation_result = x ** y
+```
+
 2. Comparison operators
 
 Comparison operators are used to compare values and return a Boolean result (True or False). Here are some common comparison operators in Python:
