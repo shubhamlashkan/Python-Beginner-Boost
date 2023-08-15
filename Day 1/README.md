@@ -37,4 +37,4 @@ Python provides an excellent environment for learning and exploring programming 
 
 In the upcoming video, we will delve deeper into various Python topics. Stay tuned!
 
-Now that you have a basic understanding of Python, let's move on to the next thread, where we will explore variables and data types in Python.
+Now that you have a basic understanding of Python, let's move on to the next video, where we will explore variables and data types in Python.
